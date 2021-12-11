@@ -36,7 +36,7 @@ Run application
 	docker run -d -it -p 8123:8123 --name lob -e REDIS_SERVER=redis -e MONGO_SERVER=mongo --network="db-network" -v /home/core/data:/data:ro --restart unless-stopped lob:latest python3 startup.py --nocheck
 
 # Additional analysis libraries
-Additional code that has been used for data analysis in our dissertation can be found here: https://github.com/Ben-4-Git/lobanalysis. 
+Additional code that has been used for data analysis in our dissertation can be found here: https://github.com/LimitOrderBook/lob-analysis. 
 
 Note that the analysis code is *not necessary* to run this application.
 
