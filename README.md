@@ -4,7 +4,7 @@ Analyse the limit order book in seconds. Zoom to tick level or get yourself an o
 https://lob.physik.bayern
 
 ## Dissertation
-**Modelling the short-term impact of live news-flows on the limit order book using an extended Hawkes process**
+**Short-term impact of live news on the limit order book modelled as an extended Hawkes process**
 ![University of Oxford](oxford-logo.png)
 
 ***Christ Church***
