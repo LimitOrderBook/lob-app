@@ -22,7 +22,7 @@ For screening LOB data and derived figures of our dissertation, and easy data di
 
 # Requirements
 * mongo-db database
-* redit database
+* redis database
 * to use OCR/speech recognition please provide Google cloud credentials (in config/google.json)
 * to download LOB data, please provide TradingPhysics credentials (in config/tradingphyurl.txt)
 * video files are automatically downloaded from Apple's podcast library
